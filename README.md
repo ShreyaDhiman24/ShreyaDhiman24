@@ -1,29 +1,26 @@
-# <div id="header" align="center">Hello 👋, I'm Shreya Dhiman <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/></div>
+# <div id="header" align="center">Hello 👋, I'm Shreya Dhiman</div>
+<img src="https://komarev.com/ghpvc/?username=ShreyaDhiman24&style=flat-square&color=blue" alt=""/>
+<div align="right">
+<div id="header" align="center"><img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/></div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shreya-dhiman-25a753247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  </div>
 
 ## **About Me:**
-  <div flex: "1">
-    <p>I'm a Frontend Developer, currently perfecting my competitive programming skills.</p>
+  <div>
+    <p>I'm a Frontend Developer, currently perfecting my competitive programming skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
       <li>B.Tech CSE(2021-2025), NIT Hamirpur</li>
       <li>Executive Member at CSEC, NITH.</li>
       <li>Executive Member at Team .EXE, NITH.</li>
   </div>
-  <div flex="1" align="right">
+<!--   <div flex="1" align="right">
     <img src="https://raw.githubusercontent.com/mishmanners/MishManners/master/My-OctocatsShortest.gif" width="420" height="420" align="right"/>
   </div>
-</div>
+</div> -->
 
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 
 

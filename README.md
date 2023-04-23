@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
 
-:telescope: I'm a Frontend Developer, UI/UX Designer, currently perfecting my Competitive Programming Skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+:telescope: I'm a Frontend Developer, currently perfecting my Competitive Programming Skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 - :woman_student: A second year B.Tech CSE(2021-2025) student at NIT Hamirpur.
 - :seedling: Executive Member at CSEC and Team .EXE, NITH.

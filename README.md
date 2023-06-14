@@ -39,7 +39,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 <hr>
-
+<!-- 
 ### :fire: My Stats :
 
  <p align="center">
@@ -47,4 +47,4 @@
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=ShreyaDhiman24&theme=buefy&show_icons=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaDhiman24&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
+</p> -->

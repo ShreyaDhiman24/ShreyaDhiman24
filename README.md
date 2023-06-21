@@ -40,7 +40,7 @@
 </div>
 <hr>
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 
  <p align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ShreyaDhiman24&theme=buefy)](https://git.io/streak-stats" />
@@ -48,7 +48,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ShreyaDhiman24&theme=buefy&show_icons=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaDhiman24&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
-
+ -->
 
 <!-- ### 🏆 Achievements :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">

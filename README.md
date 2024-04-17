@@ -20,8 +20,6 @@
 - :woman_student: A third year B.Tech CSE(2021-2025) student at NIT Hamirpur.
 - :seedling: Executive Member at CSEC and Team .EXE, NITH.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks.
-
 - :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDhiman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-dhiman-25a753247/)
 <hr>
 
@@ -43,10 +41,8 @@
 <hr>
 
  ### :fire: My Stats :
-
  <p align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ShreyaDhiman24&theme=buefy)](https://git.io/streak-stats" />
-        <br>
         <img src="https://github-readme-stats.vercel.app/api?username=ShreyaDhiman24&theme=buefy&show_icons=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaDhiman24&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats" />
 </p>

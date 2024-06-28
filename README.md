@@ -39,7 +39,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
 </div>
 <hr>
-
+<!--
  ### :fire: My Stats :
  <p align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ShreyaDhiman24&theme=buefy)](https://git.io/streak-stats" />

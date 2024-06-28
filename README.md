@@ -15,12 +15,15 @@
 
 ### :woman_technologist: About Me :
 
+Hello everyone! I am a Computer Science undergraduate at NIT Hamirpur with a notable CGPA of 9.45. I have hands-on experience in software development and open-source projects, specializing in C++, Python, ReactJs, and ASP.NET. 
+Additionally, deeply passionate about delving into the fields of AI and machine learning, continually seeking out new technologies and their real-life applications.👩‍💻🌟
+<!--
 :telescope: I'm a Frontend Developer, currently perfecting my Competitive Programming Skills.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 - :woman_student: A third year B.Tech CSE(2021-2025) student at NIT Hamirpur.
 - :seedling: Executive Member at CSEC and Team .EXE, NITH.
-
-- :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDhiman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-dhiman-25a753247/)
+ -->
+:mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDhiman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-dhiman-25a753247/)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :

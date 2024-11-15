@@ -1,7 +1,7 @@
 # <div id="header" align="center">Hello <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="45"/>, I'm Shreya Dhiman</div>
 
 <img src="https://komarev.com/ghpvc/?username=ShreyaDhiman24&style=flat-square&color=blue" alt=""/>
-<div>Link to <a href="https://shreya-portfolio-mf4jzptkc-shreyadhiman24s-projects.vercel.app/" target="_blank">My Portfolio</a></div>
+<div>Link to <a href="https://shreya-portfolio-nu.vercel.app/" target="_blank">My Portfolio</a></div>
 <!--
 <div align="right">
         <div id="header" align="center"><img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/></div>
